@@ -12,45 +12,140 @@ body {
   color:rgb(113, 72, 151);
 }
 
+/* Mobile */
+
 #a {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #b {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #c {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #d {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #e {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #f {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #g {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #h {
+  background-image: linear-gradient (yellow, aliceblue);
 
 }
 
 #i {
-  
+  background-image: linear-gradient (yellow, aliceblue);
 }
 
+/* Tablet */
 
-/* @media;
+@media (min-width:768px){
+  body {
+    width: 768px;
+    max-width: 1024px;
+    margin:auto;
+    margin-top: 50px;
+}
 
-body {
-  
-} */
+#a {
+  background-color: rgb(112, 182, 143);
+}
+
+#b {
+  background-color: rgb(112, 182, 143);
+}
+
+#c {
+  background-color: rgb(112, 182, 143);
+}
+
+#d {
+  background-color: rgb(112, 182, 143);
+}
+
+#e {
+  background-color: rgb(112, 182, 143);
+}
+
+#f {
+  background-color: rgb(112, 182, 143);
+}
+
+#g {
+  background-color: rgb(112, 182, 143);
+}
+
+#h {
+  background-color: rgb(112, 182, 143);
+}
+
+#i {
+  background-color: rgb(112, 182, 143);
+}
+
+/* Desktop */
+
+@media (min-width: 1025px){
+  body {
+    width: 960px;
+    max-width: 1024px;
+    margin:auto;
+    margin-top: 50px;
+}
+
+#a {
+  background-color: rgb(112, 182, 143);
+}
+
+#b {
+  background-color: rgb(112, 182, 143);
+}
+
+#c {
+  background-color: rgb(112, 182, 143);
+}
+
+#d {
+  background-color: rgb(112, 182, 143);
+}
+
+#e {
+  background-color: rgb(112, 182, 143);
+}
+
+#f {
+  background-color: rgb(112, 182, 143);
+}
+
+#g {
+  background-color: rgb(112, 182, 143);
+}
+
+#h {
+  background-color: rgb(112, 182, 143);
+}
+
+#i {
+  background-color: rgb(112, 182, 143);
+}
