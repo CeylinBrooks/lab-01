@@ -1,0 +1,56 @@
+* {
+  background-color: rgb(187, 187, 187);
+  box-sizing: border-box;
+}
+
+body {
+  width: 480px;
+  min-width: 480px;
+  max-width: 767px;
+  margin: auto;
+  margin-top: 50px;
+  color:rgb(113, 72, 151);
+}
+
+#a {
+
+}
+
+#b {
+
+}
+
+#c {
+
+}
+
+#d {
+
+}
+
+#e {
+
+}
+
+#f {
+
+}
+
+#g {
+
+}
+
+#h {
+
+}
+
+#i {
+  
+}
+
+
+/* @media;
+
+body {
+  
+} */
